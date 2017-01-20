@@ -19,4 +19,4 @@ MAC地址的格式是按照6个字节写入eeprom中
 
 #### 显示效果
 
-![](./image/SQLiteMACW.png)
+![](./image/SQLiteMAC.png)
